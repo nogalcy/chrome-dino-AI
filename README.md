@@ -26,7 +26,7 @@ This model was trained 250,000 epochs and took over 13 hours to train. Even stil
 
 As stated, the high score for this AI was 612, with the average score being in the 200-300 range. This is relatively good results for the amount of training, however the model could be vastly improved by training for longer, potentially using Docker or other containers to train multiple games at once, and other options. A demo of the AI running for 5 runs is shown below. The max score for these 5 runs was 463 and you can see that the AI has definitely learned enough to be useable!
 
-![Demo](https://github.com/user-attachments/assets/9b9fb4eb-3871-4e40-b122-6930f44643ff)
+https://github.com/user-attachments/assets/9b9fb4eb-3871-4e40-b122-6930f44643ff
 
 
 ## Usage
