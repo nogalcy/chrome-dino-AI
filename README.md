@@ -20,7 +20,7 @@ The game environment was created using pyautoGUI for keyboard and click inputs, 
 
 ## Training
 
-This model was trained 250,000 epochs and took over 13 hours to train. Even still, there is lots of room for improvement and I believe that training the model for close to 1,000,000 epochs would provide great results. The high score of the model is 612 which is acceptable, but still easily beatable by a human. For reference, the game is [here](chrome://dino).
+This model was trained 250,000 epochs and took over 13 hours to train. Even still, there is lots of room for improvement and I believe that training the model for close to 1,000,000 epochs would provide great results. The high score of the model is 612 which is acceptable, but still easily beatable by a human. For reference, the game is chrome://dino/.
 
 ## Results and Demo
 
